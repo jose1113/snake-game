@@ -1,0 +1,13 @@
+body{
+    height: 95vh;
+    width: 95;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
